@@ -1,0 +1,6 @@
+proposals-and-summaries/
+
+__pycache__/
+*.pyc
+.venv/
+.env
