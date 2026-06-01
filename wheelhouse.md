@@ -41,6 +41,7 @@ Recruit, Inventory. Plus:
   named, billable deliverable, not a side effect.
 - AI-API / MCP integration: Claude API and MCP servers as production tooling.
 - Adjacent: WordPress/WooCommerce↔Zoho, Twilio/Firebase/SMS.
+- Windows 11 based utilities that utilize AI.
 
 ## Precedent the model can pattern-match against
 
